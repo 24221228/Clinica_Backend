@@ -1,0 +1,35 @@
+superadmin: [
+      'Dashboard',
+      'Registrar usuario *',
+      'Registrar especialidad *',
+      'Registros',
+      'Reportes',
+      'Permisos',
+      'Perfil *',
+      'Cerrar Sesión'
+]
+
+admin: [
+      'Dashboard',
+      'Registros',
+      'Reportes',
+      'Perfil *',
+      'Cerrar Sesión',
+]
+
+especialista: [
+      'Dashboard',
+      'Ver Citas',
+      'Registros',
+      'Perfil *',
+      'Cerrar Sesión',
+]
+
+paciente: [
+      'Dashboard',
+      'Registrar Paciente',
+      'Registrar Cita',
+      'Registros',
+      'Perfil *',
+      'Cerrar Sesión'
+]
